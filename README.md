@@ -1,1 +1,1 @@
-# WheatheApp
+# WheatherApp
